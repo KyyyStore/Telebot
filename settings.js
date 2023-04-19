@@ -6,7 +6,7 @@ const {
 // Website Api (jgn di ganti biar gk eror)
 global.APIs = {
    alfa: 'https://api.arifzynstore.my.id', 
-   alfa1 'https://api.lolhuman.xyz',//apabila link api eror, segera laporkan ke owner
+   alfa1: 'https://api.lolhuman.xyz',//apabila link api eror, segera laporkan ke owner
 }
 
 //buy apikey premium 0887435047326
