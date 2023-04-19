@@ -5,13 +5,15 @@ const {
 
 // Website Api (jgn di ganti biar gk eror)
 global.APIs = {
-   alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
+   alfa: 'https://api.zeeoneofc.my.id', 
+   alfa1 'https://api.zeeoneofc.my.id',//apabila link api eror, segera laporkan ke owner
 }
 
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti Your Key dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'Your Key', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'Your Key',
+   'https://api.zeeoneofc.my.id': 'you key',// 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 
 //language 
