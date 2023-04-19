@@ -25,5 +25,5 @@ global.OWNER_NAME = "ᴹᴿ᭄ FikiOfcོ ×፝֟͜×" //your name
 global.OWNER_NUMBER = "6283899262114" //your telegram number
 global.OWNER = ["https://t.me/Kyystorey", "https://t.me/zeeone_ofc"] // pastikan username sudah sesuai agar fitur khusus owner bisa di pakai
 global.THUMBNAIL = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.DONASI = "./image/donasi.jpg" // foto donasi di folder image
+global.DONASI = "./Screenshot_20230419-144340_Gojek.jpg" // foto donasi di folder image
 global.lang = language //don't change
